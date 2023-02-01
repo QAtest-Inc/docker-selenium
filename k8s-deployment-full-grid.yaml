@@ -269,7 +269,7 @@ spec:
     spec:
       containers:
         - name: selenium-router
-          image: selenium/router:4.0.0-20211025
+          image: selenium/router:4.8.0-20230131
           env:
             - name: SE_DISTRIBUTOR_HOST
               value: "selenium-distributor"
