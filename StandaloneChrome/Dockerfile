@@ -2,7 +2,7 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM selenium/node-chrome:4.0.0-20211025
+FROM selenium/node-chrome:110.0.5481.77-chromedriver-110.0.5481.77-20230210
 LABEL authors=SeleniumHQ
 
 USER 1200
