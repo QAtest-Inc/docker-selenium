@@ -463,7 +463,7 @@ spec:
     spec:
       containers:
         - name: selenium-ff-node
-          image: selenium/node-firefox:4.0.0-20211025
+          image: selenium/node-firefox:110.0-20230221
           env:
             - name: SE_EVENT_BUS_HOST
               value: "selenium-event-bus"
