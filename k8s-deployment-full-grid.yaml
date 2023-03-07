@@ -207,7 +207,7 @@ spec:
     spec:
       containers:
         - name: selenium-distributor
-          image: selenium/distributor:4.0.0-20211025
+          image: selenium/distributor:4.8.1-20230306
           env:
             - name: SE_EVENT_BUS_HOST
               value: "selenium-event-bus"
